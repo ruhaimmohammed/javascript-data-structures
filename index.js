@@ -4,6 +4,7 @@ import { Queue } from './queue.js'
 import { BinarySearchTree } from './binarySearchTree.js'
 import BstTravarselHeight from './bstTravarselHeight.js';
 import HashTables from './hashTables.js';
+import linkedList from './linkedList.js';
 
 // Stacks();
 // Sets();
@@ -11,3 +12,4 @@ import HashTables from './hashTables.js';
 // BinarySearchTree();
 // BstTravarselHeight();
 // HashTables();
+linkedList();
