@@ -6,6 +6,7 @@ import BstTravarselHeight from './bstTravarselHeight.js';
 import HashTables from './hashTables.js';
 import linkedList from './linkedList.js';
 import trie from './trie.js';
+import Heap from './heap.js';
 
 // Stacks();
 // Sets();
@@ -14,4 +15,5 @@ import trie from './trie.js';
 // BstTravarselHeight();
 // HashTables();
 // linkedList();
-trie();
+// trie();
+Heap();
