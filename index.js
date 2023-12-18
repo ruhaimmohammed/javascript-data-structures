@@ -7,6 +7,7 @@ import HashTables from './hashTables.js';
 import linkedList from './linkedList.js';
 import trie from './trie.js';
 import Heap from './heap.js';
+import Graphs from './graphs.js';
 
 // Stacks();
 // Sets();
@@ -16,4 +17,5 @@ import Heap from './heap.js';
 // HashTables();
 // linkedList();
 // trie();
-Heap();
+// Heap();
+Graphs();
